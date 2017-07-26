@@ -1,12 +1,14 @@
-# AirDataBoom
+# Status 
 
-[The reference page for the project](http://www.basicairdata.eu/projects/air-data-boom/)
+Requirements design phase
+
+# Angle of Attack Probe
 
 [BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry
 
 ## Description
 
-Repo for all the ADB project files. Contruction plans are here. A main goal is to render available 3D editable models in a free format.
+Repo for an AOA/AOS probe for DIY. The general idea is to integrate the probe the [base air data computer](https://github.com/BasicAirData/AirDataComputer).
 
 ## Reference documents
 
