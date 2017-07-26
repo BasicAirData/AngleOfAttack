@@ -8,7 +8,7 @@ Requirements design phase started
 
 ## Description
 
-Repo for an AOA/AOS probe for DIY. The general idea is to integrate the probe the [base air data computer](https://github.com/BasicAirData/AirDataComputer).
+Repo for an AOA/AOS probe for DIYer. The general idea is to integrate the probe the [base air data computer](https://github.com/BasicAirData/AirDataComputer).
 
 ## Reference documents
 
