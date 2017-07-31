@@ -1,4 +1,4 @@
-[Collaborate on the wiki](https://github.com/BasicAirData/AngleOfAttack/wiki)
+[Collaborative Wiki](https://github.com/BasicAirData/AngleOfAttack/wiki)
 
 # Angle of Attack Probe
 
