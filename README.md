@@ -1,3 +1,5 @@
+[Collaborate on the wiki](https://github.com/BasicAirData/AngleOfAttack/wiki)
+
 # Angle of Attack Probe
 
 [BasicAirData](http://www.basicairdata.eu) Open and free DIY air data instrumentation and telemetry
